@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:wooden_axe"
+  },
+  "addition": {
+    "item": "netheritestick:netherite_stick"
+  },
+  "result": {
+    "item": "netheritestick:wood_axe"
+  }
+}
